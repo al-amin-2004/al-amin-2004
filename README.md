@@ -60,9 +60,12 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Use%20to%20Code&fontSize=40&stroke=b678c4&fontColor=0:8871e5,100:b678c4" height="300" width="1000"/>
-</div>
+</div> -->
+
+</br>
+<h3 align="center">Use to code</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -95,7 +98,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" height="300" width="1000"/>
-</div>
+</div> -->
 
