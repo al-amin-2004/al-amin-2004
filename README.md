@@ -65,8 +65,8 @@
 
 <div  align="center">
  <a href="https://www.facebook.com/arvin.tushar.2024" target="blank"><img src="https://github.com/al-amin-2004/al-amin-2004/blob/main/assets/facebook.svg" height="40" width="40"/></a>
- <a href="www.linkedin.com/in/al-amin2004" target="blank"><img src="https://github.com/al-amin-2004/al-amin-2004/blob/main/assets/linkedin.svg" height="40" width="40"/></a>
  <a href="https://www.youtube.com/" target="blank"><img src="https://github.com/al-amin-2004/al-amin-2004/blob/main/assets/youtube.svg" height="40" width="40"/></a>
+ <a href="www.linkedin.com/in/al-amin2004" target="blank"><img src="https://github.com/al-amin-2004/al-amin-2004/blob/main/assets/linkedin.svg" height="40" width="40"/></a>
 </div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=al-amin-2004&show_icons=true&theme=tokyonight) -->
