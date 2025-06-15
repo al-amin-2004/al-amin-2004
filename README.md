@@ -8,7 +8,7 @@
 </br>
 <h3 align="center"> I'm Passionate Frontend Developer from Bangladesh</h3>
 
-<p align="center"> Welcome to my GitHub profile! I’m a dedicated Frontend Developer skilled in <b>Next.js</b>, <b>React.js</b>, <b>Tailwind CSS</b> etc, and modern web technologies. I love creating responsive, user-friendly, and visually appealing websites that offer great user experiences. </p>
+<p align="center">Welcome to my GitHub profile! I’m a dedicated Frontend Developer skilled in <b>Next.js</b>, <b>React.js</b>, <b>Tailwind CSS</b> etc, and modern web technologies. I love creating responsive, user-friendly, and visually appealing websites that offer great user experiences. </p>
 
 
 
@@ -58,5 +58,15 @@
   </tbody>
 </table>
 
+
+
+</br>
+<h3 align="center">Connect with me</h3>
+
+<div  align="center">
+ <a href="https://www.facebook.com/arvin.tushar.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/al-amin2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+</div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=al-amin-2004&show_icons=true&theme=tokyonight) -->
